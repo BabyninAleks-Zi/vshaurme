@@ -1,1 +1,8 @@
+# Папки
 .idea/
+.DS_Store/
+.vscode/
+
+# Файлы
+database.sqlite3
+another_db.sqlite3
